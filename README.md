@@ -8,7 +8,7 @@ Day-15-am
 1. Clone the repository
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/avishkajindal05/Day-15-AM.git
 cd Day-15-AM
 ```
 
